@@ -4,9 +4,9 @@ _site
 .jekyll-metadata
 .bundle
 .sass-cache
-.sln
-.vs
 Gemfile
 Gemfile.lock
 node_modules
 package.json
+*.sln
+.vs/
