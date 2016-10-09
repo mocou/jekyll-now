@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小于500，除以7余1且除以3余2的数有多少个？"
+title: "hello!"
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
