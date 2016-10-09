@@ -252,24 +252,39 @@ nav {
 }
 
 .post {
-  blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
-    font-style: italic;
-  }
+    blockquote {
+        margin: 1.8em .8em;
+        border-left: 2px solid $gray;
+        padding: 0.1em 1em;
+        color: $gray;
+        font-size: 22px;
+        font-style: italic;
+    }
 
-  .comments {
-    margin-top: 10px;
-  }
+    table {
+        display: block;
+        width: 100%;
+        overflow: auto;
+        margin-top: 0;
+        margin-bottom: 16px;
+    }
 
-  .read-more {
-    text-transform: uppercase;
-    font-size: 15px;
-  }
+    table th,
+    table td {
+        padding: 6px 13px;
+        border: 1px solid #ddd;
+    }
+
+    .comments {
+        margin-top: 10px;
+    }
+
+    .read-more {
+        text-transform: uppercase;
+        font-size: 15px;
+    }
 }
+
 
 .wrapper-footer {
   margin-top: 50px;
