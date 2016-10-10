@@ -19,9 +19,7 @@ html {
 
 body {
   background: $white;
-  font-family: $helvetica;
-  font-size: 15px;
-  line-height: 1.45;
+  font: 15px/1.45 $helvetica;
   color: $darkGray;
 }
 
