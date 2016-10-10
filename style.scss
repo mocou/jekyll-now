@@ -302,7 +302,11 @@ nav {
         font-size: 15px;
     }
 }
-
+.entry {
+    p {
+        text-indent: 2em;
+    }
+}
 .wrapper-footer {
   margin-top: 50px;
   border-top: 1px solid #ddd;
